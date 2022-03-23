@@ -1,5 +1,5 @@
 # Purple-logger
-An img-token-grabber with an Discord-Webhook connection!
+An discord img-token-grabber with an Discord-Webhook connection!
 
 # How to start 
 
